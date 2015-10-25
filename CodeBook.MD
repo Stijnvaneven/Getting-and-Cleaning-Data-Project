@@ -24,16 +24,16 @@ Combine the X and Y data;
 Assign proper activity name to activity_data
   - activityLabels
 
-dataFeaturesNames: 
+data_features_names: 
 - stores the info from features.txt
 
-Variable Data
+The variable: Data
   - contains combination of all data
 
-selectedNames
+selected_names
 - contains the means and averages columns and  "subject", "activity" columns.
 - Use this to subset the Data set
 
-Then obtain averages and create tidy set
+Then obtain averages and create tidy set into the file tidydata.txt
 
 
